@@ -17,3 +17,4 @@ PISTA DE APOYO...
 Debéis pasar a la rama manzanas con un comando que habéis utilizado anteriormente.
 
 Pero "ridmi" no está... Debéis traer el archivo README de la rama tronco sin moveros de la rama manzanas a través de un segundo comando.
+Daniel Martín Juárez
